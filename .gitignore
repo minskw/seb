@@ -18,3 +18,9 @@ keystore.properties
 # Generated files
 app/build/
 build/
+
+# Explicitly track Gradle wrapper files (do NOT gitignore these)
+!gradlew
+!gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
