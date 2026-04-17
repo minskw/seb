@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Safe Exam Browser</string>
+    <string name="label_nama_ujian">Nama Ujian</string>
+    <string name="label_mapel">Mata Pelajaran</string>
+    <string name="label_tanggal">Tanggal</string>
+    <string name="label_waktu">Waktu Mulai</string>
+    <string name="label_durasi">Durasi (menit)</string>
+    <string name="label_url">Link Google Form</string>
+    <string name="hint_tanggal">dd/MM/yyyy</string>
+    <string name="hint_waktu">HH:mm</string>
+    <string name="msg_saved">Ujian berhasil disimpan</string>
+    <string name="msg_deleted">Ujian dihapus</string>
+    <string name="empty_state">Belum ada ujian tersimpan\nTekan tombol + untuk menambah</string>
+    <string name="btn_tambah">Tambah Ujian</string>
+    <string name="btn_simpan">Simpan Ujian</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="btn_scan_qr">Scan QR Ujian</string>
+    <string name="info_url">ℹ️ Hanya URL Google Form yang diterima (docs.google.com/forms). Link akan dibuka langsung di dalam aplikasi saat ujian dimulai.</string>
+</resources>
